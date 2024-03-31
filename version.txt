@@ -1,0 +1,2 @@
+bybit_spot_futures_arbitrage:1.1.0
+bybit_risk_manager:0.0.4
